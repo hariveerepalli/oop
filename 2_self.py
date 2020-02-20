@@ -1,6 +1,6 @@
 '''
 1. self is used to refer the instance of the class to the method.
-2. Based on self only the method will get to know for which instace it has to responce.
+2. Based on self only the method will get to know for which instace it has to response.
 3. We can give any name in place of self 
 '''
 
